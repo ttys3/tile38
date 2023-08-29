@@ -15,7 +15,7 @@ require (
 	github.com/nats-io/nats-server/v2 v2.2.0 // indirect
 	github.com/nats-io/nats.go v1.10.1-0.20210228004050-ed743748acac
 	github.com/peterh/liner v1.2.1
-	github.com/prometheus/client_golang v1.10.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/streadway/amqp v1.0.0
 	github.com/tidwall/btree v0.6.1
 	github.com/tidwall/buntdb v1.2.7
