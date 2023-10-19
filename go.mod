@@ -12,8 +12,9 @@ require (
 	github.com/gomodule/redigo v1.8.3
 	github.com/iwpnd/sectr v0.1.2
 	github.com/mmcloughlin/geohash v0.10.0
-	github.com/nats-io/nats-server/v2 v2.2.0 // indirect
-	github.com/nats-io/nats.go v1.10.1-0.20210228004050-ed743748acac
+	github.com/nats-io/jwt v1.2.2 // indirect
+	github.com/nats-io/nats-server/v2 v2.9.23 // indirect
+	github.com/nats-io/nats.go v1.28.0
 	github.com/peterh/liner v1.2.1
 	github.com/prometheus/client_golang v1.10.0
 	github.com/streadway/amqp v1.0.0
@@ -31,8 +32,8 @@ require (
 	github.com/tidwall/sjson v1.2.3
 	github.com/xdg/scram v1.0.3
 	github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
-	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1
+	golang.org/x/net v0.10.0
+	golang.org/x/term v0.11.0
 	google.golang.org/api v0.20.0
 	google.golang.org/grpc v1.35.0
 	layeh.com/gopher-json v0.0.0-20201124131017-552bb3c4c3bf
