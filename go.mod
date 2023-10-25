@@ -3,12 +3,12 @@ module github.com/tidwall/tile38
 go 1.16
 
 require (
-	cloud.google.com/go/pubsub v1.3.1
+	cloud.google.com/go/pubsub v1.30.0
 	github.com/Azure/azure-event-hubs-go/v3 v3.3.16
 	github.com/Shopify/sarama v1.27.2
 	github.com/aws/aws-sdk-go v1.37.3
 	github.com/eclipse/paho.mqtt.golang v1.3.1
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.3
 	github.com/gomodule/redigo v1.8.3
 	github.com/iwpnd/sectr v0.1.2
 	github.com/mmcloughlin/geohash v0.10.0
@@ -31,9 +31,9 @@ require (
 	github.com/tidwall/sjson v1.2.3
 	github.com/xdg/scram v1.0.3
 	github.com/yuin/gopher-lua v0.0.0-20200816102855-ee81675732da
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
-	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1
-	google.golang.org/api v0.20.0
-	google.golang.org/grpc v1.35.0
+	golang.org/x/net v0.9.0
+	golang.org/x/term v0.7.0
+	google.golang.org/api v0.114.0
+	google.golang.org/grpc v1.56.3
 	layeh.com/gopher-json v0.0.0-20201124131017-552bb3c4c3bf
 )
